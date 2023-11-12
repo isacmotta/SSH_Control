@@ -1,4 +1,4 @@
-# SSH_Control
+# Painel SSH
 12/11/2023 
 versão alpha 0.0.1
 
